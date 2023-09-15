@@ -18,6 +18,7 @@ body {
 #header-content__about {
     display: flex;
     justify-content: space-around;
+    flex-shrink: 1;
     align-items: center;
     background-color: #162028;
     color: white;
